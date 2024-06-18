@@ -1,0 +1,4 @@
+{
+  "tag_name": "v2.0.8",
+  "body": "* \uD83D\uDD28 优化 标准数据模型\n* \uD83D\uDD28 修改 终端默认字间距为 `0`\n* ✨ orion-visor 现已贡献至 `dromara` [开源社区](https://dromara.org/)"
+}
