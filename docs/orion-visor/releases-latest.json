@@ -1,4 +1,4 @@
 {
-  "tag_name": "v2.0.8",
-  "body": "* \uD83D\uDD28 优化 标准数据模型\n* \uD83D\uDD28 修改 终端默认字间距为 `0`\n* ✨ orion-visor 现已贡献至 `dromara` [开源社区](https://dromara.org/)"
+  "tag_name": "v2.0.9",
+  "body": "* \uD83D\uDC1E 修复 定时清理 `命令片段` 和 `路径书签` 报错\n* \uD83D\uDE80 升级 `arco design` 版本\n* \uD83C\uDF08 添加 `系统管理` > `系统设置` 页面\n* \uD83D\uDD28 修改 `logout` 前端处理逻辑\n* \uD83D\uDD28 修改 `docker` 目录"
 }
