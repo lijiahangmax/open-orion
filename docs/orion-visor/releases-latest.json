@@ -1,4 +1,4 @@
 {
-  "tag_name": "v2.0.9",
+  "tag_name": "v2.0.10",
   "body": "* \uD83D\uDC1E 修复 系统设置中机器码获取失败\n* \uD83D\uDC1E 修复 字典值排序不生效\n* \uD83C\uDF08 添加 `github workflow` e2e testing\n* \uD83C\uDF08 添加 主机连接日志自动清理配置\n* \uD83D\uDD28 添加 `docker-compose` 容器健康检测\n* \uD83D\uDD28 修改 `docker-volumes` 的路径 (简化)\n* \uD83D\uDD28 修改 清理历史文件配置\n* \uD83D\uDD28 修改 前端代码结构\n* \uD83D\uDD28 修改 spring 配置描述文件\n* \uD83D\uDD10 修改 ip 获取逻辑 (防止伪造)\n"
 }
